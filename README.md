@@ -1,3 +1,7 @@
+# TODO
+
+* [ ] Adding support to delete messages sent by bot ([slack api](https://api.slack.com/methods/chat.delete))
+
 # slack-cleaner
 
 Bulk delete messages and files on Slack.
